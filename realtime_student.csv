@@ -1,0 +1,2 @@
+Student_ID,Gender,Age,Major,Attendance_Pct,Study_Hours_Per_Day,Previous_CGPA,Sleep_Hours,Social_Hours_Week,Predicted_Final_CGPA,Pass_Probability,Pass_Fail,Risk_Score,Risk_Level
+ID54005,Female,21,Computer Science,80.0,4.0,3.0,7.0,10,3.33,100.0,Pass,21.75,Low Risk
